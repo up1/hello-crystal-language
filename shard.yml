@@ -1,0 +1,13 @@
+name: demo_api
+version: 0.1.0
+
+authors:
+  - up1 <somkiat.p@gmail.com>
+
+targets:
+  demo_api:
+    main: src/demo_api.cr
+
+crystal: 0.34.0
+
+license: MIT
